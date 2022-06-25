@@ -8,6 +8,3 @@ function LinkedinJL(){
 function LinkinJK(){
     window.open('https://www.linkedin.com/in/james-kwasnicki-481a20221/')
 }
-function Webapp() {
-    window.open('https://experience.arcgis.com/experience/2176933e8c1d4b3aaf37df590692b5f4/')
-}

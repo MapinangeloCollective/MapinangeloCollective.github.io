@@ -3,8 +3,8 @@ function LinkedinKW(){
     window.open('https://www.linkedin.com/in/kerstyne%2Dwidmeyer%2D733010200');
 }
 function LinkedinJL(){
-    window.open('https://www.linkedin.com/in/jade%2Dlacsamana%2Da7224b131/')
+    window.open('https://www.linkedin.com/in/jade%2Dlacsamana%2Da7224b131/');
 }
 function LinkinJK(){
-    window.open('https://www.linkedin.com/in/james-kwasnicki-481a20221/')
+    window.open('https://www.linkedin.com/in/james-kwasnicki-481a20221/');
 }

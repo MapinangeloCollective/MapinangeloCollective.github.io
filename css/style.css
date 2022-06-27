@@ -94,7 +94,6 @@ p {
     margin-right: 80px;
     margin-bottom: 30px;
 }
-
 .Processdiv{
     padding-top: 15px;
     padding-bottom: 25px;
@@ -105,13 +104,11 @@ p {
     margin-bottom: 30px;
     min-width: 700px;
 }
-
 /* Nav Bar styles: reference https://www.w3schools.com/css/tryit.asp?filename=trycss_website_layout_navbar*/
 .Navbar {
     overflow: hidden;
     background-color:#dcdfdb;  
 }
-
 .NavBar a {
     float: left;
     display: block;
@@ -120,16 +117,13 @@ p {
     padding: 15px;
     text-decoration: none;
 }
-
 .NavBar a:hover {
     background-color:#aed4a1;
     color: black;
 }
-
 .active {
     background-color:#458885;
 }
-
 /* Footer link style */
 .PEC {
     color: #e0d8d8;
@@ -137,11 +131,9 @@ p {
     font-weight: bold; 
     text-decoration: none;
 }
-
 #rcorners {
     border-radius: 25px;
 }
-
 /* Linkedin button taken from https://github.com/KerstyneW/a3web/blob/main/css/styles.css*/
 .linkedinbutton {
     transition-duration: 0.4s;
@@ -149,13 +141,11 @@ p {
     background-color:#aed4a1;
     border: none;
     font-size: 25px;
-
 }
 .linkedinbutton:hover {
     color: #0a66c2;
     cursor: pointer;
 }
-
 /* Container for Projects section on landing page, owner: Jade */
 .flex-containerProjects {
     display: flex;

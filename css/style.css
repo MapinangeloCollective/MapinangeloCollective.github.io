@@ -142,7 +142,7 @@ p {
     cursor: pointer;
 }
 
-/*Container for Projects section on landing page, owner: Jade*/
+/* Container for Projects section on landing page, owner: Jade */
 .flex-containerProjects {
     display: flex;
     flex-wrap: wrap;
@@ -167,7 +167,7 @@ p {
       border-radius:50%;
       filter:hue-rotate(180deg);
 }
-/*Responsive styling for projects section, owner: Jade*/
+/* Responsive styling for projects section, owner: Jade*/
 @media only screen and (max-width: 1200px) {
     .flex-containerProjects {
         margin: 0;

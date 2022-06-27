@@ -50,8 +50,9 @@ p {
 	position:absolute;
 	left:0;
 	bottom:0;
+    width: 100%;
+    text-align:left;
 }
-
 .heroimagecontainercontainer{
     height: 400px;
 }

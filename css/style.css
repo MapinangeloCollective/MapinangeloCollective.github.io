@@ -44,7 +44,7 @@ h5 {
     font-size: 18px;
     color: #e0d8d8;
     text-align: center;
-    font-weight:lighter;
+    font-weight: lighter;
 }
 p {
     font-size: 18px;
@@ -136,6 +136,10 @@ p {
     font-size: 16px;
     font-weight: bold; 
     text-decoration: none;
+}
+
+#rcorners {
+    border-radius: 25px;
 }
 
 /* Linkedin button taken from https://github.com/KerstyneW/a3web/blob/main/css/styles.css*/

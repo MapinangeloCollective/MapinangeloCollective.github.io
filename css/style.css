@@ -46,6 +46,13 @@ h5 {
     text-align: center;
     font-weight: lighter;
 }
+h6 {
+    font-size: 12px;
+    color:#c6b8b8;
+    text-align:right;
+    font-weight: lighter;
+    margin: 20px;
+}
 p {
     font-size: 18px;
     color: #e0d8d8;
@@ -55,7 +62,7 @@ p {
 	position:absolute;
 	left:0;
 	bottom:0;
-    width: 100%;
+    width: 50%;
     text-align:left;
 }
 .heroimagecontainercontainer{
@@ -93,6 +100,13 @@ p {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.photocredit{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 50%;
+    text-align: right;
 }
 @media only screen and (max-width: 768px) {   
     h1{ /*Sets page title smaller for smaller devices*/

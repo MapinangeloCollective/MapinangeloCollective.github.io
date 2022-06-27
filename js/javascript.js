@@ -5,6 +5,6 @@ function LinkedinKW(){
 function LinkedinJL(){
     window.open('https://www.linkedin.com/in/jade%2Dlacsamana%2Da7224b131/');
 }
-function LinkinJK(){
+function LinkedinJK(){
     window.open('https://www.linkedin.com/in/james-kwasnicki-481a20221/');
 }

@@ -1,9 +1,15 @@
+
+@font-face {
+	font-family: NationalParkFont;
+	src:url(NationalPark-Regular.otf);
+}
+
 body {
     background-color: rgb(29, 28, 28); 
     text-align: center;
-    font-family: 'Verdana', sans-serif;
     margin: 0;
     height: 100%;
+    font-family: NationalParkFont;
 }	
 footer{
     background-color: #458885; 
@@ -11,20 +17,22 @@ footer{
     padding-bottom: 1px;
     padding: 30px;
 }
+
 /* Set h1 parameters here */
 h1 {
 	color:#ffff; 
-	font-family: 'Garamond', cursive;
-	font-size: 60px;
-	font-weight: lighter;
+	font-size: 50px;
+	font-weight:bold;
 	text-shadow: 2px 2px 5px #000000;
     margin: 25px;
+    font-family: NationalParkFont;
 } 
 h2{
     font-size: 30px;
     font-weight: bold;
     text-align: center;
-    color: #458885
+    color: #458885;
+    font-family: NationalParkFont;
 }
 h3{
     font-size: 24px;
@@ -44,18 +52,18 @@ p {
     color: #e0d8d8;
     text-align: left;
 }
-/* Parameters to have Company Name overtop of hero image, Owner Kerstyne*/
 .heroimagetitle {
 	position:absolute;
 	left:0;
 	bottom:0;
 }
+
 .heroimagecontainercontainer{
-    height: 300px;
+    height: 400px;
 }
 /* Parameters to contain the hero image*/
 .heroimagecontainer{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/OMap.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../images/BLTU_2.jpg");
 	position: relative;
     height: 100%;
     background-position: center;

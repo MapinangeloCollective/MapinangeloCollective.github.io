@@ -1,9 +1,7 @@
-
 @font-face {
 	font-family: TenoriteFont;
 	src:url("../Tenorite-Regular.ttf");
 }
-
 body, html {
     background-color: rgb(29, 28, 28); 
     text-align: center;
@@ -17,7 +15,6 @@ footer{
     padding-bottom: 1px;
     padding: 30px;
 }
-
 /* Set h1 parameters here */
 h1 {
 	color:#ffff; 
@@ -27,7 +24,7 @@ h1 {
     margin: 25px;
 } 
 h2{
-    font-size: 30px;
+    font-size: 40px;
     font-weight: bold;
     text-align: center;
     color: #458885;
